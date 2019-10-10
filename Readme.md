@@ -1,2 +1,2 @@
-Since our software zip was exceeding the maximum file size limit so we were told to upload the zip file to google drive and share the link.
-Here's the link : https://drive.google.com/open?id=14Zh5g7Hswoiy_yFlxK0Qw14JGYU4I1rQ
+# Driver Drowsiness Detection and Monitoring System
+The software can be found at : https://drive.google.com/open?id=14Zh5g7Hswoiy_yFlxK0Qw14JGYU4I1rQ
